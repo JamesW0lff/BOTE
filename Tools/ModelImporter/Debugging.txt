@@ -1,0 +1,1 @@
+-scale 1.0 ../../Assets/Models/Wolf/wolf.fbx ../../Assets/Models/Wolf/wolf.model
